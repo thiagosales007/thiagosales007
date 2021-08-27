@@ -20,7 +20,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosales007&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
-  
 
 
 
