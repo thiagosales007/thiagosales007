@@ -9,8 +9,8 @@
  ##
 <div>
   <a href="https://github.com/thiagosales007">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosales007&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosales007&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagosales007&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosales007&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
  ### My Skills:
